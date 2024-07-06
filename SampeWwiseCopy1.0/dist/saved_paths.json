@@ -1,0 +1,107 @@
+{
+    "rrr": {
+        "specificpath": "\\Actor-Mixer Hierarchy\\<WorkUnit>Default Work Unit\\<ActorMixer>World\\<ActorMixer>Enemy\\<ActorMixer>Stage2\\<ActorMixer>AllMonster2\\<ActorMixer>MonsterArmored\\<Random Container>AmoredFootSep\\<Sound>AmorStep3",
+        "selectlist": [
+            {
+                "Color": 10,
+                "IsLoopingEnabled": false,
+                "Highpass": 0,
+                "IsLoopingInfinite": true,
+                "OverrideColor": true,
+                "MakeUpGain": 0.0,
+                "Lowpass": 0,
+                "Pitch": 0,
+                "Volume": 0.0,
+                "path": "\\Actor-Mixer Hierarchy\\Default Work Unit\\World\\Enemy\\Stage2\\AllMonster2\\MonsterArmored\\AmoredFootSep\\AmorStep3",
+                "name": "AmorStep3",
+                "type": "Sound"
+            },
+            {
+                "Color": 10,
+                "Highpass": 0,
+                "OverrideColor": true,
+                "MakeUpGain": 0.0,
+                "Lowpass": 0,
+                "Pitch": 0,
+                "Volume": 0.0,
+                "path": "\\Actor-Mixer Hierarchy\\Default Work Unit\\World\\Enemy\\Stage2\\AllMonster2\\MonsterArmored\\AmoredFootSep",
+                "name": "AmoredFootSep",
+                "type": "RandomSequenceContainer"
+            },
+            {
+                "Color": 10,
+                "Highpass": 0,
+                "OverrideColor": true,
+                "MakeUpGain": 0.0,
+                "Lowpass": 0,
+                "Pitch": 0,
+                "Volume": 0.0,
+                "path": "\\Actor-Mixer Hierarchy\\Default Work Unit\\World\\Enemy\\Stage2\\AllMonster2\\MonsterArmored",
+                "name": "MonsterArmored",
+                "type": "ActorMixer"
+            },
+            {
+                "Color": 10,
+                "Highpass": 0,
+                "OverrideColor": true,
+                "MakeUpGain": 0.0,
+                "Lowpass": 0,
+                "Pitch": 0,
+                "Volume": 0.0,
+                "path": "\\Actor-Mixer Hierarchy\\Default Work Unit\\World\\Enemy\\Stage2\\AllMonster2",
+                "name": "AllMonster2",
+                "type": "ActorMixer"
+            },
+            {
+                "Color": 10,
+                "Highpass": 0,
+                "OverrideColor": true,
+                "MakeUpGain": 0.0,
+                "Lowpass": 0,
+                "Pitch": 0,
+                "Volume": 0.0,
+                "path": "\\Actor-Mixer Hierarchy\\Default Work Unit\\World\\Enemy\\Stage2",
+                "name": "Stage2",
+                "type": "ActorMixer"
+            },
+            {
+                "Color": 10,
+                "Highpass": 0,
+                "OverrideColor": true,
+                "MakeUpGain": 0.0,
+                "Lowpass": 0,
+                "Pitch": 0,
+                "Volume": 0.0,
+                "path": "\\Actor-Mixer Hierarchy\\Default Work Unit\\World\\Enemy",
+                "name": "Enemy",
+                "type": "ActorMixer"
+            },
+            {
+                "Color": 0,
+                "Highpass": 0,
+                "OverrideColor": false,
+                "MakeUpGain": 0.0,
+                "Lowpass": 0,
+                "Pitch": 0,
+                "Volume": 0.0,
+                "path": "\\Actor-Mixer Hierarchy\\Default Work Unit\\World",
+                "name": "World",
+                "type": "ActorMixer"
+            },
+            {
+                "Color": 0,
+                "OverrideColor": false,
+                "path": "\\Actor-Mixer Hierarchy\\Default Work Unit",
+                "name": "Default Work Unit",
+                "type": "WorkUnit"
+            },
+            {
+                "Color": 0,
+                "OverrideColor": false,
+                "path": "\\Actor-Mixer Hierarchy",
+                "name": "Actor-Mixer Hierarchy",
+                "type": "WorkUnit"
+            }
+        ]
+    }
+}
